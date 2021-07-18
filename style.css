@@ -1,0 +1,133 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: Nunito Sans;
+   scroll-behavior: smooth;
+}
+section
+{
+    display: flex;
+}
+.b
+{
+    background-color: #007CFF;
+    width: 30%;
+    align-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    height: max-content;
+}
+.name
+{
+    display: flex;
+    align-items: center;
+}
+.title
+{
+    color: white;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 24px;
+}
+.logo
+{
+    padding: 5px;
+}
+.ilus
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.text
+{
+    color: white;
+    margin-bottom: 100%;
+}
+h2
+{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #BFDEFF;
+    font-weight: 1000;
+    font-size: 28px;
+}
+.text p
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.w
+{
+    background-color: white;
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.formBx
+{
+    padding-bottom: 20px;
+}
+form input
+{
+    padding: 15px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background: #F4F7F9;
+    color: #007CFF;
+    resize: none;
+    border-radius: 10px;
+    width: 444px;
+    height: 40px;
+}
+form p
+{
+    color: #2A2A2A;
+    padding-top: 25px;
+    font-size: 12px;
+    font-weight: 600;
+}
+input[type="submit"]
+{
+    background-color: #007CFF;
+    color: white;
+    resize: none;
+    width: 120px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+a
+{
+    text-decoration: none;
+    color: #007CFF;
+}
+.check p
+{
+    font-size: 12px;
+    font-weight: 600;
+    padding-bottom: 30px;
+    align-content: center;
+}
+.create
+{
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+.question
+{
+    padding-left: 5px;
+}
+.forgot p
+{
+    font-size: 12px;
+    font-weight: 600;
+    padding-top: 20px;
+}
